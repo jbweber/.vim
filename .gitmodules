@@ -1,0 +1,30 @@
+[submodule "pack/dotfiles/start/vim-sensible"]
+	path = pack/dotfiles/start/vim-sensible
+	url = https://github.com/tpope/vim-sensible.git
+[submodule "pack/dotfiles/start/vim-airline"]
+	path = pack/dotfiles/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "pack/dotfiles/start/vim-airline-themes"]
+	path = pack/dotfiles/start/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes.git
+[submodule "pack/dotfiles/start/vim-better-whitespace"]
+	path = pack/dotfiles/start/vim-better-whitespace
+	url = https://github.com/ntpeters/vim-better-whitespace.git
+[submodule "pack/dotfiles/start/vim-yaml"]
+	path = pack/dotfiles/start/vim-yaml
+	url = https://github.com/stephpy/vim-yaml.git
+[submodule "pack/dotfiles/start/vim-go"]
+	path = pack/dotfiles/start/vim-go
+	url = https://github.com/fatih/vim-go
+[submodule "pack/dotfiles/start/vim-commentary"]
+	path = pack/dotfiles/start/vim-commentary
+	url = https://github.com/tpope/vim-commentary.git
+[submodule "pack/dotfiles/start/vim-json"]
+	path = pack/dotfiles/start/vim-json
+	url = https://github.com/elzr/vim-json.git
+[submodule "pack/dotfiles/start/vim-terraform"]
+	path = pack/dotfiles/start/vim-terraform
+	url = https://github.com/hashivim/vim-terraform.git
+[submodule "pack/dotfiles/start/vim-ansible"]
+	path = pack/dotfiles/start/vim-ansible
+	url = https://github.com/pearofducks/ansible-vim.git
