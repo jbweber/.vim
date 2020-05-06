@@ -42,5 +42,8 @@ au FileType go nmap <Leader>e <Plug>(go-rename)
 
 let g:go_fmt_command = "goimports"
 
+" markdown
+au BufRead,BufNewFile *.md setlocal textwidth=80
+
 " yaml
 au BufNewFile,BufRead *.yml,*.yaml setlocal expandtab ts=2 sw=2
