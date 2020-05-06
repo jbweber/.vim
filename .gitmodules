@@ -25,6 +25,3 @@
 [submodule "pack/dotfiles/start/vim-terraform"]
 	path = pack/dotfiles/start/vim-terraform
 	url = https://github.com/hashivim/vim-terraform.git
-[submodule "pack/dotfiles/start/vim-ansible"]
-	path = pack/dotfiles/start/vim-ansible
-	url = https://github.com/pearofducks/ansible-vim.git
