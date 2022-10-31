@@ -3,6 +3,7 @@ set nocompatible    " turn off vi compat mode
 set noshowmatch     " do not show matching brackets by flickering
 set noshowmode      " mode will be seen with airline
 set noerrorbells    " no beeps
+set visualbell t_vb=
 set ignorecase      " search ignores case
 set smartcase       " but not when the pattern has an upper case
 set autowrite       " automatically save before :next etc.
@@ -14,6 +15,10 @@ set shiftwidth=4    " spaces column is indented when using << >>
 set softtabstop=4   " number of spaces in <Tab> when editing
 set expandtab       " in insert mode use appropriate number of spaces for a <Tab>
 set shiftround      "
+
+filetype off
+filetype plugin indent on
+syntax on
 
 " color settings
 set t_Co=256            " allow 256 colors in the terminal
